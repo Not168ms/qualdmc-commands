@@ -1,0 +1,24 @@
+name: IfCommand
+version: 1.0
+main: dev.safirus.ifcommand.Ifcommand
+author: Safirus
+
+
+#        Bukkit.getConsoleSender().sendMessage("");
+#        Bukkit.getConsoleSender().sendMessage(ChatColor.GOLD + "IfCommand Plugin");
+#        Bukkit.getConsoleSender().sendMessage("");
+#        Bukkit.getConsoleSender().sendMessage(ChatColor.GOLD + "Author:" + ChatColor.WHITE + " Safirus");
+#        Bukkit.getConsoleSender().sendMessage(ChatColor.GOLD + "Version:" + ChatColor.WHITE + " 1.0");
+#        Bukkit.getConsoleSender().sendMessage("");
+#        Bukkit.getConsoleSender().sendMessage(ChatColor.GOLD + "The plugin has loaded perfectly");
+#        Bukkit.getConsoleSender().sendMessage("");
+#    }
+#    public void onDisable() {
+#        Bukkit.getConsoleSender().sendMessage("");
+#        Bukkit.getConsoleSender().sendMessage(ChatColor.GOLD + "IfCommand Plugin");
+#        Bukkit.getConsoleSender().sendMessage("");
+#        Bukkit.getConsoleSender().sendMessage(ChatColor.GOLD + "Author:" + ChatColor.WHITE + " Safirus");
+#        Bukkit.getConsoleSender().sendMessage(ChatColor.GOLD + "Version:" + ChatColor.WHITE + " 1.0");
+#        Bukkit.getConsoleSender().sendMessage(ChatColor.GOLD + "The plugin has not loaded perfectly");
+#        Bukkit.getConsoleSender().sendMessage("");
+#    }

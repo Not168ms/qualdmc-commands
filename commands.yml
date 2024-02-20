@@ -1,0 +1,9 @@
+commands:
+  - staff
+  - mod
+  - sc
+  - ban
+  - mute
+  - blacklist
+  - kick
+  - report
